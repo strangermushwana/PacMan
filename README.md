@@ -1,2 +1,3 @@
-# PacMan
-PacMan Simulation
+# Pac Man
+
+Pac Man Simulation
